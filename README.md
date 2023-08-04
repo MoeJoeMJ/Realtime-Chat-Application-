@@ -1,0 +1,1 @@
+This is a real-time group-oriented chat application built with React and Spring Boot. With this application, you can chat with your friends, create group conversations, send messages or images and set group administrators.
