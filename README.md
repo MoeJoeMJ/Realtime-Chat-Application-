@@ -18,6 +18,8 @@ This is a real-time group-oriented chat application built with React and Spring 
 
 
 ### Starting the Backend
-Go inside the backend folder.Run '''mvn spring-boot:run''' to launch the backend. OR Run '''mvn clean package''' to generate a JAR file, and then start the server with '''java -jar path/to/jar/file''' (Usually located inside backend/target/).
+Go inside the backend folder.
+Run  ```mvn spring-boot:run ``` to launch the backend. 
+OR Run '''mvn clean package''' to generate a JAR file, and then start the server with  ```java -jar path/to/jar/file ``` (Usually located inside backend/target/).
 ### Starting the Frontend
-Go inside the frontend-web folder. Run '''npm run start'''.
+Go inside the frontend-web folder. Run  ```npm run start ```.
